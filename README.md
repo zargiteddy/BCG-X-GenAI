@@ -13,5 +13,5 @@ What i did in this program:
 
 Link to this job simulation program: [BCG X GenAI Job Simulation](https://www.theforage.com/simulations/bcg/gen-ai-anlo)
 
-My certificate: [GenAI Job Simulation Certificate - Raden Isnawan Aryasatya](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_S6Jh2DhuLDJcRH42k_1753172747784_completion_certificate.pdf)
+My certificate: [GenAI Job Simulation Certificate - Raden Isnawan Argi Aryasatya](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/SKZxezskWgmFjRvj9/gabev3vXhuACr48eb_SKZxezskWgmFjRvj9_S6Jh2DhuLDJcRH42k_1753172747784_completion_certificate.pdf)
 
