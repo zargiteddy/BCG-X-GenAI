@@ -11,3 +11,5 @@ What i did in this program:
 - Developed a prototype financial chatbot by implementing a rule-based query response system using Python
 - Validated the chatbot responses to ensure clarity, accuracy, and relevance in delivering financial insights and cross-company comparisons.
 
+Link to this job simulation program: [BCG X GenAI Job Simulation](https://www.theforage.com/simulations/bcg/gen-ai-anlo)
+
