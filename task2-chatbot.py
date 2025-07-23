@@ -85,7 +85,7 @@ def simple_chatbot(user_query):
         return f"{company_found}'s net income trend:\n- " + "\n- ".join(trends)
 
     else:
-        return "Sorry, I can only answer financial queries like revenue, net income, growth, or trends."
+        return "Sorry, I can only provide information on predefined queries."
 
 # Interactive Loop
 print("Financial Chatbot - Ask your questions!")
